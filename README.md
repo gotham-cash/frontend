@@ -42,7 +42,7 @@ Multiplying the mirrors reinforces the project's trustless & permissionless phil
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/gothamcash/frontend.git
+git clone https://github.com/gotham-cash/frontend.git
 cd frontend
 ```
 
@@ -108,6 +108,6 @@ We do not provide custodial services, KYC, or compliance checks.
 
 - Website: https://gotham.cash
 - Docs: https://gothamcash.gitbook.io
-- GitHub: https://github.com/gothamcash
+- GitHub: https://github.com/gotham-cash
 - Telegram: https://t.me/gotham_cash
 - Twitter/X: https://x.com/gothamcash
