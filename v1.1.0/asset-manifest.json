@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a976d370.css",
+    "main.js": "/static/js/main.6bdce50e.js",
+    "static/js/453.f75f184a.chunk.js": "/static/js/453.f75f184a.chunk.js",
+    "static/media/gotham.jpg": "/static/media/gotham.dbb1f8bb4cbfd22cfc5e.jpg",
+    "index.html": "/index.html",
+    "main.a976d370.css.map": "/static/css/main.a976d370.css.map",
+    "main.6bdce50e.js.map": "/static/js/main.6bdce50e.js.map",
+    "453.f75f184a.chunk.js.map": "/static/js/453.f75f184a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a976d370.css",
+    "static/js/main.6bdce50e.js"
+  ]
+}
